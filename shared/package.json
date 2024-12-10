@@ -1,0 +1,23 @@
+{
+    "name": "@template/shared",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "",
+    "main": "dist/index.js",
+    "devDependencies": {},
+    "scripts": {
+        "build": "tsc",
+        "build:watch": "tsc --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kaas93/fullstack-template.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kaas93/fullstack-template/issues"
+    },
+    "homepage": "https://github.com/kaas93/fullstack-template#readme"
+}
